@@ -21,6 +21,6 @@ Building simple blog site and understanding HTML and CSS. Learn how to,
 | 25 mins       |  [`Introduction to HTML`](html_intro.md)
 | 25 mins       |  [`Introduction to CSS`](css_intro.md)
 | 30 mins       |  [`Building Static Blog Website`](blog_html_css.md)
-| 20 mins       |  [`Understanding and Running lighthouse`]
-| 15 mins       |  [`Intoduction to Agile and SEO`]
-| 5 mins        |  [`Wrapping Up`]
+| 20 mins       |  Understanding and Running lighthouse
+| 15 mins       |  Intoduction to Agile and SEO
+| 5 mins        |  Wrapping Up
